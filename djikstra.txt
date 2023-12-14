@@ -1,0 +1,38 @@
+A B 4 C 3
+B A 4 E 12 F 5
+C A 3 D 7 E 10
+D C 7 E 2
+E B 12 C 10 D 2 Z 5
+F B 5 Z 16
+Z E 5 F 16
+
+A B 3 C 5 D 8 E 4 F 6 G 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+B A 3 C 5 D 8 E 4 F 6 G 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+C A 3 B 5 D 8 E 4 F 6 G 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+D A 3 B 5 C 8 E 4 F 6 G 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+E A 3 B 5 C 8 D 4 F 6 G 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+F A 3 B 5 C 8 D 4 E 6 G 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+G A 3 B 5 C 8 D 4 E 6 F 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+H A 3 B 5 C 8 D 4 E 6 F 7 G 5 I 9 J 7 K 4 L 3 M 2 N 6
+I A 3 B 5 C 8 D 4 E 6 F 7 G 5 H 9 J 7 K 4 L 3 M 2 N 6
+J A 3 B 5 C 8 D 4 E 6 F 7 G 5 H 9 I 7 K 4 L 3 M 2 N 6
+K A 3 B 5 C 8 D 4 E 6 F 7 G 5 H 9 I 7 J 4 L 3 M 2 N 6
+L A 3 B 5 C 8 D 4 E 6 F 7 G 5 H 9 I 7 J 4 K 3 M 2 N 6
+M A 3 B 5 C 8 D 4 E 6 F 7 G 5 H 9 I 7 J 4 K 3 L 2 N 6
+N A 3 B 5 C 8 D 4 E 6 F 7 G 5 H 9 I 7 J 4 K 3 L 2 M 6
+
+new
+A B 3 C 5 D 8 E 4 F 6 G 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+B A 3 C 5 D 8 E 4 F 6 G 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+C A 3 B 5 D 8 E 4 F 6 G 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+D A 3 B 5 C 8 E 4 F 6 G 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+E A 3 B 5 C 8 D 4 F 6 G 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+F A 3 B 5 C 8 D 4 E 6 G 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+G A 3 B 5 C 8 D 4 E 6 F 7 H 5 I 9 J 7 K 4 L 3 M 2 N 6
+H A 3 B 5 C 8 D 4 E 6 F 7 G 5 I 9 J 7 K 4 L 3 M 2 N 6
+I A 3 B 5 C 8 D 4 E 6 F 7 G 5 H 9 J 7 K 4 L 3 M 2 N 6
+J A 3 B 5 C 8 D 4 E 6 F 7 G 5 H 9 I 7 K 4 L 3 M 2 N 6
+K A 3 B 5 C 8 D 4 E 6 F 7 G 5 H 9 I 7 J 4 L 3 M 2 N 6
+L A 3 B 5 C 8 D 4 E 6 F 7 G 5 H 9 I 7 J 4 K 3 M 2 N 6
+M A 3 B 5 C 8 D 4 E 6 F 7 G 5 H 9 I 7 J 4 K 3 L 2 N 6
+N A 3 B 5 C 8 D 4 E 6 F 7 G 5 H 9 I 7 J 4 K 3 L 2 M 6
